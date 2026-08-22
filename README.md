@@ -1,6 +1,6 @@
 <div align="center">
 
-# MANIKANTA PATHAKOTI
+# Manikanta Pathakoti
 
 ### Founder @ IdeaShorts 🚀
 
