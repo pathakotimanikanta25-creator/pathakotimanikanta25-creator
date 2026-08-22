@@ -2,12 +2,9 @@
 
 # 👋 Hey, I'm Manikanta
 
-### 🚀 Founder @ IdeaShorts
+### 🚀 Founder @ IdeaShorts | CSE–IoT Engineer | Builder
 
-**I don't just want to learn technology.
-I want to build things people can use.**
-
-<br/>
+**Turning ideas into products, one build at a time.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pathakotimanikanta)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pathakotimanikanta25-creator)
@@ -16,127 +13,126 @@ I want to build things people can use.**
 
 ---
 
-## 🚀 Currently Building
+# 🚀 What I'm Building
 
-# **IdeaShorts**
+## IdeaShorts
 
-> **An idea is only the beginning.**
+**A platform for founders, innovators & builders to showcase ideas, get feedback, connect with people and build in public.**
 
-IdeaShorts is a platform for **founders, innovators & builders** to showcase their ideas, get meaningful feedback, find people to build with, and build in public.
+> **IDEA → FEEDBACK → PEOPLE → BUILD → GROW**
 
-### The journey we're building:
-
-**💡 IDEA → 💬 FEEDBACK → 🤝 PEOPLE → 🛠️ BUILD → 🚀 GROW**
-
-**Status:** `Building V1`
+Currently building **IdeaShorts V1**.
 
 ---
 
-## 🧑‍💻 Who Am I?
+# 🏆 Milestones & Achievements
 
-I'm a **CSE–IoT Engineer, Founder & Builder** who enjoys working at the intersection of:
+### 🥇 World Rank 21 — LeetCode Weekly Contest
 
-**Technology × Products × Entrepreneurship**
+Competed in a LeetCode Weekly Contest and achieved a **global rank of 21**.
 
-I like taking an idea from a conversation or a rough sketch and turning it into something that actually works.
+### 💎 Diamond — Data Structures & Algorithms
 
-Currently, I'm putting that mindset into **IdeaShorts**.
+Earned the **Diamond Certificate in DSA** from Smart Interviews.
 
----
+### 🐍 PCEP Certified
 
-## ⚡ My Playground
+Earned the **PCEP – Certified Entry-Level Python Programmer** certification.
 
-<div align="center">
+### 🤖 Summer of AI — 2025
 
-### 💻 Development
+Worked on AI technologies including **Transformers, GPT, BERT, RAG and Telugu LLMs** during the Summer of AI program.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+### ☁️ AWS Academy
 
-### 🤖 AI • IoT • Cloud
+Completed an **AWS Academy Cloud Internship**, gaining hands-on exposure to cloud technologies.
 
-![AI](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+### 🔐 Cybersecurity
 
-</div>
+Completed a **Cybersecurity Virtual Internship** through EduSkills Foundation and Palo Alto Networks.
 
 ---
 
-## 🔨 Things I've Built
-
-### 🏋️ AI Fitness Tracker
-
-Real-time exercise tracking using **Computer Vision, OpenCV & MediaPipe**.
-
-### 🏫 Smart Classroom Monitoring
-
-An **IoT-based monitoring system** using sensors, microcontrollers, backend services and a dashboard.
-
-### 🤖 Robotics & IoT Projects
-
-Experimenting with **ESP32, sensors, embedded systems, robotics and intelligent control**.
+# 🔨 Things I've Built
 
 ### 🚀 IdeaShorts
 
-The project I'm taking from **concept → product → real users**.
+My current startup project — taking an idea from **concept → product → V1**.
+
+### 🏋️ AI Fitness Tracker
+
+A computer-vision based fitness application using **OpenCV & MediaPipe** for real-time exercise tracking.
+
+### 🏫 Smart Classroom Monitoring System
+
+An IoT system combining **sensors, NodeMCU, Flask backend and a dashboard** to monitor classroom conditions.
+
+### 🤖 Robotics Projects
+
+Worked with **ESP32, sensors, motors, servos, computer vision and embedded systems** while experimenting with robotics and humanoid systems.
 
 ---
 
-## 🧠 Currently Leveling Up
+# 🧑‍💻 My Tech Playground
 
-```text
-DSA              █████████░░
-Full Stack       ████████░░░
-System Design    ██████░░░░░
-AI / ML          ███████░░░░
-IoT              ████████░░░
-Product Building █████████░░
-```
+**Languages**
 
-> Still learning. Still building. Still improving.
+`Java` `Python` `JavaScript`
 
----
+**Development**
 
-## 🎯 What I'm Optimizing For
+`React.js` `Node.js` `Flask` `HTML` `CSS`
 
-**Build more.**
+**AI / Computer Vision**
 
-**Ship faster.**
+`AI/ML` `OpenCV` `MediaPipe` `Transformers` `RAG`
 
-**Learn from users.**
+**IoT / Embedded**
 
-**Become a better engineer.**
+`ESP32` `ESP8266` `NodeMCU` `Sensors`
 
-**Build products that matter.**
+**Cloud / Tools**
+
+`AWS` `Docker` `Git` `GitHub`
 
 ---
 
-## 🌱 A Little Philosophy
+# 🧠 Currently Leveling Up
 
-> ### **Ideas are everywhere. Execution isn't.**
+`DSA` · `Full Stack` · `System Design` · `AI/ML` · `IoT` · `Cloud` · `Product Development`
 
-I don't want this GitHub to just be a collection of projects.
+---
 
-I want it to show the **things I'm actually building, learning and shipping.**
+# 🌱 What I Believe
+
+> **Ideas are everywhere. Execution isn't.**
+
+I believe the best way to learn technology is to **build with it**.
+
+Every project teaches me something.
+
+Every failure gives me something to improve.
+
+Every shipped feature gets me a little closer to becoming the engineer and founder I want to be.
+
+---
+
+# 📍 The Journey
+
+**Student → Engineer → Builder → Founder**
+
+I'm still somewhere in the middle of that journey.
+
+And this GitHub is where I'm documenting the process.
 
 ---
 
 <div align="center">
 
-## 🚀 BUILD • SHIP • LEARN • REPEAT
+# 🚀 BUILD • SHIP • LEARN • REPEAT
 
-### Building IdeaShorts V1.
+### Currently building IdeaShorts V1.
 
-**One problem. One product. One commit at a time.**
-
-<br/>
-
-### Let's build something interesting. 👀
+**Let's build something worth talking about.**
 
 </div>
